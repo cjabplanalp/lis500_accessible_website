@@ -44,6 +44,46 @@
     margin-top: 25px;
 }
 
+.sa-header {
+    color: white;
+    text-align: center;
+    margin: 25px;
+    font-size: x-large;
+}
+
+.sa-options {
+    display: flex;
+    flex-direction: column;
+}
+
+.sa-options > div {
+    padding: 50px;
+    color: white;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+.sa-options > div > h2 {
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+.sa-options > div > h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: yellow;
+}
+
+.sa-options > div > ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sa-options > div > ul > li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 
 
 
