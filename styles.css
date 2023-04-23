@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    background-color: #0B0B45;
+    font-family: sans-serif;
+}
+
+.nav-bar {
+    margin: 0;
+    height: 50px;
+    display: flex;
+    align-items:center;
+    justify-content: left;
+    background-color: grey;
+    flex: 1;
+}
+
+.nav-bar a {
+    background-color: grey;
+    padding: 10px;
+    object-fit: contain;
+    color:black;
+    text-decoration: none;
+    cursor: auto;
+}
+
+.nav-bar a:hover {
+    cursor: pointer;
+    font-weight: bolder;
+    color: rgb(0, 38, 255);
+}
+
+.welcome-text {
+    margin-top: 35vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    color: white;
+}
+
+.welcome-text h1 {
+    margin: 15px;
+}
+
+.welcome-text img {
+    margin-top: 25px;
+}
+
+
+
+
