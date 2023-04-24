@@ -112,3 +112,19 @@
     padding-bottom: 10px;
     color: yellow;
 }
+.schedule {
+    padding: 50px;
+    color: white;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+.schedule > li {
+    color: white;
+    padding: 10px;
+}
+.schedule > ul {
+    padding: 15px;
+}
+.schedule > h3 {
+    color: yellow;
+}
