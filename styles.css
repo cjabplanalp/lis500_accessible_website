@@ -44,6 +44,10 @@
     margin-top: 25px;
 }
 
+.welcome-text h3 {
+    color: yellow;
+}
+
 .sa-header {
     color: white;
     text-align: center;
