@@ -84,6 +84,31 @@
     margin-bottom: 5px;
 }
 
+.rules-header {
+    color: white;
+    text-align: center;
+    margin: 25px;
+    font-size: x-large;
+}
 
+.rules-options {
+    display: flex;
+    flex-direction: column;
+}
 
+.rules-options > div {
+    padding: 50px;
+    color: white;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
 
+.rules-options > div > h2 {
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+.rules-options > div > h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: yellow;
+}
